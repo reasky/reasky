@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-### Hello 🌎, I'm Nikita Zadvornykh
+### Hello 🌎
 
 With over 3 years of experience as a FullStack Developer, I create tech solutions that bridge the digital and real worlds. Proficient in both frontend and backend development, I thrive in dynamic environments, focusing on clean code and user-centric design. Let's innovate together! 🚀
 
