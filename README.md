@@ -6,8 +6,8 @@ With over 3 years of experience as a FullStack Developer, I create tech solution
 
 
   - 🔭 I'm currently working on developing a crypto wallet.
-  - 🌱 I’m currently learning; Vue.js, Nuxt.
-  - 💬 Ask me about **Html, Css, Javascript, React,  React Native, Node.js, WebSockets, MongoDB, MySQL**
+  - 🌱 I’m currently learning; Kubernetes.
+  - 💬 Ask me about **Html, Css, Javascript, React, Nuxt.js, React Native, Node.js, WebSockets, MongoDB, MySQL**
 
 <h3 align="left">Connect with me:</h3>
 
