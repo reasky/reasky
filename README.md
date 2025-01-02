@@ -35,7 +35,7 @@ With over 3 years of experience as a FullStack Developer, I create tech solution
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,nginx,python"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,nginx"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
