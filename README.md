@@ -24,11 +24,6 @@ With over 3 years of experience as a FullStack Developer, I create tech solution
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reasky&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="reasky"/>
   </a>
 </div>
-<p align="center">
-  <a href="https://github.com/RResabala2015">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=reasky&&theme=tokyonight" alt="reasky" />
-  </a>
-</p>
 
 ------
 <h3 align="left">Languages and Tools:</h3>
