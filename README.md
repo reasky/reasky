@@ -34,7 +34,7 @@ With over 3 years of experience as a FullStack Developer, I create tech solution
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vue,nuxt,react,mui,html,css,js,figma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vue,nuxt,react,mui,html,css,js,figma,tailwind"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
