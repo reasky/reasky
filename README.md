@@ -42,7 +42,7 @@ With over 3 years of experience as a FullStack Developer, I create tech solution
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Mobile Development:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react native"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
