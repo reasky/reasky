@@ -14,6 +14,15 @@ With over 3 years of experience as a FullStack Developer, I create tech solution
 <a href="https://t.me/dev_nikita" target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 
 ------
+<h3 align="left">My business card:</h3>
+
+![reasky.ru](https://onarium.su/reasky.gif)
+
+<div align="center">
+  [reasky.ru](https://reasky.ru)
+</div>
+
+------
 <h3 align="left">Activity:</h3>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=reasky&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
