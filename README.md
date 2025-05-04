@@ -16,11 +16,16 @@ With over 3 years of experience as a FullStack Developer, I create tech solution
 ------
 <h3 align="left">My business card:</h3>
 
-![reasky.ru](https://onarium.su/reasky.gif)
+<h3 align="left"
 
-<div align="center">
-  [reasky.ru](https://reasky.ru)
+![reasky.ru](./reasky.gif)
+
+<div align="left">
+  <a href="https://reasky.ru">
+    reasky.ru
+  </a>
 </div>
+
 
 ------
 <h3 align="left">Activity:</h3>
@@ -69,4 +74,4 @@ With over 3 years of experience as a FullStack Developer, I create tech solution
 
 ------
 [reasky](https://github.com/reasky)
-25/08/2024
+04/05/2025
